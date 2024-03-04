@@ -20,13 +20,13 @@ $ docker build -t <filename> .
 ```
 
 
-3. Run the Docker file
+2. Run the Docker file
 ```text
 $ docker run -p 3000:3000 <filename>
 ```
 
 
-5. To create receipt please use below CURL command.
+3. To create receipt please use below CURL command.
 
 ```json
 
