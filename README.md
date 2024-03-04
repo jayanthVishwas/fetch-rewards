@@ -7,10 +7,9 @@ Calculates the points for given receipt.
 Before you begin, ensure you have met the following requirements:
 - Docker installed on your system.
 - set env file with below values
-  ```text
-PORT = 3000 \n
+PORT = 3000
+
 TOKEN = YRFwJUGZTj1Dzo5jrWGYOc0LjASZwwAP
-  ```
 
 ## Steps to Use the API
 
