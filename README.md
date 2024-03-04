@@ -12,12 +12,15 @@ Before you begin, ensure you have met the following requirements:
 ## Steps to Use the API
 
 1. Build Docker Image
+```text
 $ docker build -t <filename> .
+```
 
-2. Run the Docker file
+
+3. Run the Docker file
 $ docker run -p 3000:3000 <filename>
 
-3. To create receipt please use below CURL command.
+4. To create receipt please use below CURL command.
 
 ```json
 
