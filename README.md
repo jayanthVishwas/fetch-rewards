@@ -1,6 +1,6 @@
 # Receipt Processor
 
-Calculates the points for given receipt. 
+Calculates the points for a given receipt. 
 
 ## Prerequisites
 
