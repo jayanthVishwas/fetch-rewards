@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 - Docker installed on your system.
 - set env file with below values
   ```text
-PORT = 3000 
+PORT = 3000 \n
 TOKEN = YRFwJUGZTj1Dzo5jrWGYOc0LjASZwwAP
   ```
 
