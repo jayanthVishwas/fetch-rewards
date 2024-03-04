@@ -11,8 +11,6 @@ Before you begin, ensure you have met the following requirements:
 PORT = 3000 
 TOKEN = YRFwJUGZTj1Dzo5jrWGYOc0LjASZwwAP
   ```
-  $ PORT = 3000
-  $ TOKEN = YRFwJUGZTj1Dzo5jrWGYOc0LjASZwwAP
 
 ## Steps to Use the API
 
